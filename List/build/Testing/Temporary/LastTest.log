@@ -1,0 +1,84 @@
+Start testing: Nov 02 22:50 -05
+----------------------------------------------------------
+1/3 Testing: List.Size
+1/3 Test: List.Size
+Command: "/home/erick/LAB-TO/Lab_04/List/build/list_test" "--gtest_filter=List.Size" "--gtest_also_run_disabled_tests"
+Directory: /home/erick/LAB-TO/Lab_04/List/build
+"List.Size" start time: Nov 02 22:50 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/erick/LAB-TO/Lab_04/List/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = List.Size
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from List
+[ RUN      ] List.Size
+[       OK ] List.Size (0 ms)
+[----------] 1 test from List (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"List.Size" end time: Nov 02 22:50 -05
+"List.Size" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: List.Empty
+2/3 Test: List.Empty
+Command: "/home/erick/LAB-TO/Lab_04/List/build/list_test" "--gtest_filter=List.Empty" "--gtest_also_run_disabled_tests"
+Directory: /home/erick/LAB-TO/Lab_04/List/build
+"List.Empty" start time: Nov 02 22:50 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/erick/LAB-TO/Lab_04/List/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = List.Empty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from List
+[ RUN      ] List.Empty
+[       OK ] List.Empty (0 ms)
+[----------] 1 test from List (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"List.Empty" end time: Nov 02 22:50 -05
+"List.Empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: List.Head
+3/3 Test: List.Head
+Command: "/home/erick/LAB-TO/Lab_04/List/build/list_test" "--gtest_filter=List.Head" "--gtest_also_run_disabled_tests"
+Directory: /home/erick/LAB-TO/Lab_04/List/build
+"List.Head" start time: Nov 02 22:50 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/erick/LAB-TO/Lab_04/List/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = List.Head
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from List
+[ RUN      ] List.Head
+[       OK ] List.Head (0 ms)
+[----------] 1 test from List (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"List.Head" end time: Nov 02 22:50 -05
+"List.Head" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 02 22:50 -05
